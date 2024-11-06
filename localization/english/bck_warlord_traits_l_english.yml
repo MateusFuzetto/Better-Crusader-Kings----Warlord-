@@ -1,0 +1,22 @@
+﻿l_english: 
+  trait_lifestyle_warlord:0 "Warlord"
+  trait_lifestyle_warlord_desc:0 "The Warlord is a master of warfare, shaping the fate of nations with tactical brilliance and martial prowess."
+  trait_lifestyle_warlord_character_desc:0 "At the forefront of war, [ROOT.GetCharacter.GetFirstNameNoTooltip] commands with fierce determination and strategic brilliance, shaping the realm's destiny through combat mastery."
+  
+  trait_track_attack:0 "Attack"
+  trait_track_attack_desc:0  "Aggressive tactician, the Warlord leads with ferocity, securing victory through relentless combat tactics."
+  trait_track_defense:0 "Defense"
+  trait_track_defense_desc:0 "Unyielding defender, the Warlord fortifies positions with strategic foresight, turning the tide with unwavering prowess in combat."
+  trait_track_pillage:0 "Pillage"
+  trait_track_pillage_desc:0 "Merciless raider, the Warlord lays waste to enemy lands, seizing riches with calculated brutality."
+
+  trait_improved_attack:0 "Your effectiveness in combat has increased"
+  trait_improved_attack_desc:0 "Your relentless ferocity and strategic brilliance on the battlefield have garnered respect and admiration. As a master of combat, your leadership inspires fear in your enemies and confidence in your allies, shaping the outcome of battles and securing victory for your cause."
+  trait_improved_defense:0 "Your defensive skills have strengthened"
+  trait_improved_defense_desc:0 "Your steadfast resolve and tactical ingenuity in defense have solidified your reputation as an unyielding defender. With strategic foresight and unwavering determination, you fortify positions and repel enemy assaults, safeguarding the realm from threats and ensuring its security."
+  trait_improved_pillage:0 "Your pillaging abilities have advanced"
+  trait_improved_pillage_desc:0 "Your ruthless efficiency and calculated brutality in pillaging have established you as a feared raider. With swift raids and ruthless tactics, you plunder enemy territories, seizing riches and resources to enrich your own coffers, leaving a trail of devastation in your wake."
+  trait_lost_defense:0 "Attack Track Loss"
+  trait_lost_defense_desct:0 "Despite past triumphs, your recent setbacks in battle have diminished your reputation as a fearsome warrior. Regaining your edge will require renewed focus and strategic refinement, as you strive to reclaim your status as a formidable force on the battlefield."
+  trait_lost_attack:0 "Defense Track Loss"
+  trait_lost_attack_desc:0 "After sustaining recent defeats in defense, doubts have arisen about your ability to protect the realm. Rebuilding your defensive capabilities will demand perseverance and strategic adaptation, as you endeavor to restore confidence in your ability to safeguard the kingdom."
