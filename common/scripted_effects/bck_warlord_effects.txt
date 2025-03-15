@@ -14,16 +14,10 @@ bck_warlord_winning_battle_attack_xp_effect = {
             track = attack
             value = {
                 integer_range = {
-                    min = 1
-                    max = 5
+                    min = 3
+                    max = 6
                 }
             }
-        }
-
-        send_interface_message = {
-            type = event_generic_good_with_text
-            title = trait_improved_attack
-            desc = trait_improved_attack_desc
         }
     }
 }
@@ -36,16 +30,10 @@ bck_warlord_winning_battle_defense_xp_effect = {
             track = defense
             value = {
                 integer_range = {
-                    min = 2
-                    max = 6
+                    min = 5
+                    max = 8
                 }
             }
-        }
-
-        send_interface_message = {
-            type = event_generic_good_with_text
-            title = trait_improved_defense
-            desc = trait_improved_defense_desc
         }
     }
 }
@@ -58,12 +46,6 @@ bck_warlord_lose_battle_attack_xp_effect = {
             track = attack
             value = -1
         }
-
-        send_interface_message = {
-            type = event_generic_bad_with_text
-            title = trait_lost_attack
-            desc = trait_improved_attack_desc
-        }
     }
 }
 
@@ -74,12 +56,6 @@ bck_warlord_lose_battle_defense_xp_effect = {
             trait = lifestyle_warlord
             track = defense
             value = -1
-        }
-
-        send_interface_message = {
-            type = event_generic_bad_with_text
-            title = trait_lost_defense
-            desc = trait_improved_defense_desc
         }
     }
 }
@@ -92,16 +68,10 @@ bck_warlord_pillage_xp_effect = {
             track = pillage
             value = {
                 integer_range = {
-                    min = 1
-                    max = 5
+                    min = 3
+                    max = 6
                 }
             }
-        }
-
-        send_interface_message = {
-            type = event_generic_good_with_text
-            title = trait_improved_pillage
-            desc = trait_improved_pillage_desc
         }
     }
 }

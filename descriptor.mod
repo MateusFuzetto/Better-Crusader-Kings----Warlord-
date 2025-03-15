@@ -5,5 +5,5 @@ tags={
 	"Gameplay"
 }
 name="Better Crusader Kings - (Warlord)"
-supported_version="1.14.*"
+supported_version="1.15.*"
 remote_file_id="3190861352"
